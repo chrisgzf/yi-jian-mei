@@ -1,0 +1,9 @@
+{
+  "name": "yi-jian-mei",
+  "version": "1.0.0",
+  "description": "Package that returns you the chorus of Fei Yu-ching's song, 一剪梅.",
+  "main": "index.js",
+  "repository": "github.com/chrisgzf/yi-jian-mei",
+  "author": "Christopher Goh",
+  "license": "MIT"
+}
