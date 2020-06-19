@@ -14,5 +14,14 @@
     "eslint-plugin-prettier": "^3.1.4",
     "jest": "^26.0.1",
     "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "test": "jest",
+    "export": "next export",
+    "prettier": "prettier --write index.js",
+    "prettier-check": "prettier --check index.js",
+    "lint": "eslint  --fix index.js",
+    "lint-check": "eslint  --max-warnings 0 index.js",
+    "ci": "yarn lint-check && yarn prettier-check && yarn test"
   }
 }
