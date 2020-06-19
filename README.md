@@ -1,8 +1,8 @@
 # yi-jian-mei (一剪梅)
 
-_~"xue hua piao piao bei feng xiao xiao"~_
+_"xue hua piao piao bei feng xiao xiao"_
 
-NPM package that returns you the chorus lyrics of [Fei Yu-ching's song, 一剪梅](https://www.youtube.com/watch?v=W8x4m-qpmJ8).
+NPM package that returns you the chorus lyrics of [Fei Yu-ching's song, 一剪梅](https://www.youtube.com/watch?v=W8x4m-qpmJ8). This package is [published on the NPM registry](https://www.npmjs.com/package/yi-jian-mei).
 
 ## Why?
 
@@ -30,7 +30,7 @@ Good question.
    const yiJianMei = require('yi-jian-mei');
 
    const chorus = yiJianMei();
-   // Chorus should now be '雪花飘飘，北风萧萧'
+   // `chorus` should now be '雪花飘飘，北风萧萧'
 
    console.log(chorus);
    // You should now see '雪花飘飘，北风萧萧'
