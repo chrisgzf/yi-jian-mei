@@ -6,7 +6,7 @@ module.exports = {
     'jest/globals': true,
   },
   // Ensure `prettier` is the last in `extends`
-  extends: ['airbnb-base', 'prettier/react', 'prettier'],
+  extends: ['airbnb-base', 'prettier'],
   parserOptions: {
     ecmaVersion: 11,
   },
