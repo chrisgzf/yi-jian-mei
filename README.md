@@ -1,8 +1,10 @@
 # yi-jian-mei (一剪梅)
 
+[![Coverage Status](https://coveralls.io/repos/github/chrisgzf/yi-jian-mei/badge.svg?branch=master)](https://coveralls.io/github/chrisgzf/yi-jian-mei?branch=master)
+
 _"xue hua piao piao bei feng xiao xiao"_
 
-NPM package that returns you the chorus lyrics of [Fei Yu-ching's song, 一剪梅](https://www.youtube.com/watch?v=W8x4m-qpmJ8). This package is [published on the NPM registry](https://www.npmjs.com/package/yi-jian-mei).
+NPM package that returns you the chorus lyrics of [Fei Yu-ching's song, 一剪梅](https://www.youtube.com/watch?v=W8x4m-qpmJ8). This package is [published on the NPM registry](https://www.npmjs.com/package/yi-jian-mei) and is also [available on GitHub](https://github.com/chrisgzf/yi-jian-mei).
 
 ## Why?
 
