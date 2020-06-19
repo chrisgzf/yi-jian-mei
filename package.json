@@ -18,6 +18,7 @@
   },
   "scripts": {
     "test": "jest",
+    "cover": "jest --coverage",
     "export": "next export",
     "prettier": "prettier --write index.js",
     "prettier-check": "prettier --check index.js",
